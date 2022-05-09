@@ -1,0 +1,56 @@
+2018-01-18 09:33:12 error_sql: getInventaire()Champ 'u.idUE' inconnu dans group statement
+2018-01-18 13:48:52 error_sql: getEmplacement()Champ: 'id_zone' dans where clause est ambigu
+2018-01-18 13:50:21 error_sql: getEmplacement()Champ: 'id_zone' dans where clause est ambigu
+2018-01-18 13:52:49 error_sql: getEmplacement()Champ: 'id_zone' dans where clause est ambigu
+2018-01-18 13:53:11 error_sql: getEmplacement()Champ: 'id_zone' dans where clause est ambigu
+2018-01-18 13:55:35 error_sql: getEmplacement()Champ: 'id_zone' dans where clause est ambigu
+2018-01-18 13:57:41 error_sql: getEmplacement()Erreur de syntaxe près de 'as libelleZone  FROM emplacement e ,zone z WHERE e.id_zone = z.id_zone GROUP BY ' à la ligne 1
+2018-01-21 10:49:00 error_sql: setNewStock()Champ 'statut' inconnu dans field list
+2018-01-21 10:49:21 error_sql: setNewStock()Champ 'statut' inconnu dans field list
+2018-01-21 10:49:53 error_sql: setInventaire()Champ 'statut' inconnu dans field list
+2018-06-14 12:54:01 error_sql: controlAccessPassag()Champ: 'num_carte' dans where clause est ambigu
+2018-06-14 12:56:14 error_sql: controlAccessPassag()Champ: 'num_carte' dans where clause est ambigu
+2018-06-14 12:56:15 error_sql: controlAccessPassag()Champ: 'num_carte' dans where clause est ambigu
+2018-06-28 14:59:10 error_sql: setNewStock()Erreur de syntaxe près de '' à la ligne 1
+2018-06-28 15:11:28 error_sql: setNewStock()Erreur de syntaxe près de '' à la ligne 1
+2018-06-28 15:13:26 error_sql: setNewStock()Erreur de syntaxe près de '' à la ligne 1
+2018-07-01 15:59:39 error_sql: setNewStock()Champ 'service' inconnu dans field list
+2018-07-02 09:40:42 error_sql: setNewStock()Champ 'service' inconnu dans field list
+2018-07-02 10:26:29 error_sql: setNewStock()Champ 'libelle_horaire' inconnu dans field list
+2018-07-02 10:27:16 error_sql: setNewStock()Champ 'libelle_horaire' inconnu dans field list
+2018-07-02 10:27:50 error_sql: setNewStock()Champ 'libelle_horaire' inconnu dans field list
+2018-07-02 10:28:11 error_sql: setNewStock()Champ 'libelle_horaire' inconnu dans field list
+2018-10-28 15:07:47 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-28 15:08:22 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-28 15:20:34 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-28 15:27:58 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-28 15:58:53 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-28 15:59:50 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-28 16:00:31 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 08:33:54 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 08:41:39 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:21:20 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:26:11 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:27:05 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:27:30 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:29:27 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:38:50 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:38:57 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-10-29 10:45:33 error_sql: setNewStock()Cannot execute statement in a READ ONLY transaction.
+2018-12-24 09:33:16 error_sql: controlAccessPassag()Erreur de syntaxe près de ')  and (H.heure_fin> )' à la ligne 2
+2018-12-24 09:34:59 error_sql: controlAccessPassag()Erreur de syntaxe près de ':34:59)  and (H.heure_fin>09:34:59 )' à la ligne 2
+2018-12-24 09:35:29 error_sql: controlAccessPassag()Erreur de syntaxe près de ':35:29)  and (H.heure_fin>09:35:29 )' à la ligne 2
+2018-12-24 09:36:09 error_sql: controlAccessPassag()Erreur de syntaxe près de ':36:09)  and (H.heure_fin>09:36:09 )' à la ligne 2
+2018-12-24 09:37:54 error_sql: controlAccessPassag()Erreur de syntaxe près de ':37:54)  and (H.heure_fin>09:37:54 )' à la ligne 2
+2018-12-24 09:51:26 error_sql: controlAccessPassag()Erreur de syntaxe près de ':51:26)  and (H.heure_fin>09:51:26 )' à la ligne 2
+2018-12-24 09:51:59 error_sql: controlAccessPassag()Erreur de syntaxe près de ':51:59)  and (H.heure_fin>09:51:59 )' à la ligne 2
+2018-12-24 09:53:01 error_sql: controlAccessPassag()Erreur de syntaxe près de ':53:01)  and (H.heure_fin>09:53:01 )' à la ligne 2
+2018-12-24 11:05:40 error_sql: controlAccessPassag()Erreur de syntaxe près de 'count(idP) as result FROM product WHERE service=1' à la ligne 1
+2018-12-24 11:08:51 error_sql: controlAccessPassag()Erreur de syntaxe près de 'count(idP) as result FROM product WHERE service=1' à la ligne 1
+2018-12-24 16:35:24 error_sql: controlAccessPassag()Erreur de syntaxe près de 'count(idP) as result FROM product WHERE service=1' à la ligne 1
+2018-12-24 17:00:11 error_sql: controlAccessPassag()Erreur de syntaxe près de 'count(idP) as result FROM product WHERE service=1' à la ligne 1
+2018-12-24 17:00:43 error_sql: controlAccessPassag()Erreur de syntaxe près de 'count(idP) as result FROM product WHERE service=1' à la ligne 1
+2018-12-24 17:01:25 error_sql: controlAccessPassag()Erreur de syntaxe près de 'count(idP) as result FROM product WHERE service=1' à la ligne 1
+2019-05-08 12:23:38 error_sql: controlAccessPassag()La table 'parking_mdn.horaire' n'existe pas
+2019-05-08 12:25:30 error_sql: controlAccessPassag()La table 'parking_mdn.horaire' n'existe pas
+2019-05-08 12:25:48 error_sql: controlAccessPassag()La table 'parking_mdn.horaire' n'existe pas
